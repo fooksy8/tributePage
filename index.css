@@ -1,0 +1,13 @@
+body {background-image: url(https://cdn.bleacherreport.net/images_root/slides/photos/001/020/215/85991622_original.jpg?1308175800); background-size: cover;}
+
+main {background-color: red; padding: 20px; width: 100%; margin: auto auto; max-width: 500px;
+font-family: sans-serif;}
+main {color:white; max-width: 400px}
+div img {width:400px;height: auto;
+max-width: 100%;
+display: block;}
+
+.img-caption {padding-top: 0.2em;padding-bottom: 1em}
+.bold {font-weight: 800;}
+.divider {border-bottom: 3px solid white}
+footer {font-size: 21}
